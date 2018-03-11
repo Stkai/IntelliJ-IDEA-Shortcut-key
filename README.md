@@ -3,10 +3,10 @@
 #### 一、Remember these Shortcut
 |说明|快捷键|
 |----|-----|
-|<font>Smart code completion 自动补全代码</font>|<font size="3">Ctrl + Shift + Space</font>|
-|<font>Search everywhere 全局搜索</font>|<font size="3">Double Shift</font>|
-|<font>Show intention actions and quick-fixes 显示意图动作和快速修复</font>|<font size="3">Alt + Enter</font>|
-|<font>Generate code 生成代码</font>|<font size="3">Alt + Ins</font>|
+|<font size="3">Ctrl + Shift + Space</font>|font>Smart code completion 自动补全代码</font>|
+|<font size="3">Double Shift</font>|<font>Search everywhere 全局搜索</font>|
+<font size="3">Alt + Enter</font>|<font>Show intention actions and quick-fixes 显示意图动作和快速修复</font>|
+|<font>Generate code 生成代码</font><font size="3">Alt + Ins</font>|
 |<font>Parameter info 参数信息</font>|<font size="3">Ctrl + P</font>|
 |<font>Extend selection 扩展选择</font>|<font size="3">Ctrl + W</font>|
 |<font>Shrink selection 缩小选择</font>|<font size="3">Ctrl + Shift + W</font>|

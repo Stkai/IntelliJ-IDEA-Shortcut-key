@@ -1,9 +1,7 @@
 # IntelliJ-IDEA1
 # IntelliJ-IDEA
 默认快捷键（Windows）
-来源：https://resources.jetbrains.com/storage/products/idea/docs/IntelliJIDEA_ReferenceCard.pdf
-
-#### 一、Remember these Shortcuts 记住这些快捷键
+#### 一、Remember these Shortcut
 |说明|快捷键|
 |----|-----|
 |<font>Smart code completion 自动补全代码</font>|<font size="3">Ctrl + Shift + Space</font>|

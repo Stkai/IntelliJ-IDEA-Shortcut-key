@@ -1,5 +1,4 @@
-# IntelliJ-IDEA1
-# IntelliJ-IDEA
+ IntelliJ-IDEA
 默认快捷键（Windows）
 #### 一、Remember these Shortcut
 |说明|快捷键|

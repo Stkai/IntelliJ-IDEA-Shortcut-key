@@ -4,7 +4,7 @@
 #### 一、Remember these Shortcut
 |说明|快捷键|
 |----|-----|
-|<font size="3">Ctrl + Shift + Space</font>|font>Smart code completion 自动补全代码</font>|
+Ctrl + Shift + Spac|Smart code completion 自动补全代码|
 |<font size="3">Double Shift</font>|<font>Search everywhere 全局搜索</font>|
 <font size="3">Alt + Enter</font>|<font>Show intention actions and quick-fixes 显示意图动作和快速修复</font>|
 |<font size="3">Alt + Ins</font>|<font>Generate code 生成代码</font>|

@@ -2,11 +2,11 @@
 
 默认快捷键（Windows）
 #### 一、Remember these Shortcut
-|说明|快捷键|
-|----|-----|
-Ctrl + Shift + Spac|Smart code completion 自动补全代码|
-|<font size="3">Double Shift</font>|<font>Search everywhere 全局搜索</font>|
-<font size="3">Alt + Enter</font>|<font>Show intention actions and quick-fixes 显示意图动作和快速修复</font>|
+|说明|en|快捷键|
+|----|----|----|
+|自动补全代码|Smart code completion|Ctrl + Shift + Space|
+|全局搜索|Search everywhere|Double Shift|
+|显示意图动作和快速修复|Show intention actions and quick-fixes|Alt + Enter|
 |<font size="3">Alt + Ins</font>|<font>Generate code 生成代码</font>|
 |<font size="3">Ctrl + P</font>|<font>Parameter info 参数信息</font>|
 |<font size="3">Ctrl + W</font>|<font>Extend selection 扩展选择</font>|

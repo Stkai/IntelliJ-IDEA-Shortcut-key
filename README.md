@@ -72,15 +72,15 @@
 |缩小选择|Shrink selection |Ctrl + Shift + W|
 |上下文信息|Context info |Alt + Q|
 |显示意图动作和快速修复|Show intention actions and quick-fixes |Alt + Enter|
-|格式化代码Reformat code |Ctrl + Alt + L|
+|格式化代码|Reformat code |Ctrl + Alt + L|
 |优化导入|Optimize imports |Ctrl + Alt + O|
 |将选中的代码进行自动缩进编排|Auto-indent line(s) |Ctrl + Alt + I|
 |将选中的代码缩进/反缩进|Indent / unindent selected lines |Tab / Shift + Tab|
-|Cut current line to clipboard 将当前行剪切到剪贴板|Ctrl+ X, Shift+ Delete|
+|将当前行剪切到剪贴板|Cut current line to clipboard |Ctrl+ X, Shift+ Delete|
 |将当前行复制到剪贴板|Copy current line to clipboard |Ctrl + C , Ctrl + Insert|
 |从剪切板粘贴|Paste from clipboard |Ctrl + V , Shift + Insert|
 |从最近缓冲区粘贴|Paste from recent buffers... |Ctrl + Shift + V|
-|Duplicate current line 复制当前行（粘贴与下一行）|Ctrl + D|
+|复制当前行（粘贴与下一行）|Duplicate current line |Ctrl + D|
 |在插入符号删除行|Delete line at caret |Ctrl + Y|
 |智能行合并|Smart line join |Ctrl + Shift + J|
 |智能行分割|Smart line split |Ctrl + Enter|
@@ -121,7 +121,7 @@
 | 转到编辑器（从工具窗口）|Go to editor (from tool window)|Esc|
 |隐藏活动窗口或最后活动窗口|Hide active or last active window |Shift + Esc|
 |转到行|Go to line |Ctrl + G|
-|弹出最近文件|Recent files popup |Recent files popup|
+|弹出最近文件|Recent files popup |Ctrl + E|
 |向后/向前导航|Navigate back / forward |Ctrl+ Alt + Left/Right|
 |导航到最后编辑位置|Navigate to last edit location |Ctrl+ Shift+ Backspace|
 |在任何视图中选择当前文件或符号|Select current file or symbol in any view |Alt + F1|
